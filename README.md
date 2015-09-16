@@ -6,6 +6,8 @@ This is just a mash-up of some awesome technologies.
 
 ## Contains:
 
+[![Join the chat at https://gitter.im/piarm/piarm.com](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/piarm/piarm.com?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 What's under the hood?
 
 + [React](http://facebook.github.io/react/) and [Flummox](http://acdlite.github.io/flummox) frontend
